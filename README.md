@@ -1,2 +1,2 @@
 # SESGOD
-All of the files used to maker Simon's Epic Shooty Game of Desnity.
+All of the files used to make Simon's Epic Shooty Game of Desnity.
